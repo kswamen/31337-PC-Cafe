@@ -1,0 +1,16 @@
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\bin\Debug\Team31337_Client.exe.config
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\bin\Debug\Team31337_Client.exe
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\bin\Debug\Team31337_Client.pdb
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.Properties.Resources.resources
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.csproj.GenerateResource.Cache
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.csproj.CoreCompileInputs.cache
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.exe
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.pdb
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.csproj.ResolveComReference.cache
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.ClientForm1.resources
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.ClientForm2.resources
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\bin\Debug\Microsoft.Speech.dll
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.csprojResolveAssemblyReference.cache
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.ClientForm3.resources
+C:\Users\kjg\source\repos\Team31337_Server\Team31337_Client\obj\Debug\Team31337_Client.ClientForm4.resources
